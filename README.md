@@ -7,6 +7,19 @@
    - ICMP
 
   2. Quelles sont les adresses IP et les adresses MAC des interfaces ayant échangé des informations ?
+     les adresses IP:                                 45 00
+     00 54 8e b7 00 00 40 01 d5 ed  0a 01 01 01 0a 01
+     01 01
+
+     45 00
+     00 54 8e b7 00 00 40 01 d5 ed  0a 01 01 02 0a 01
+     01 02
+     
+     les adresses MAC:
+      00 50 79 66 68 01 00 50 79 66 68 00 08 00
+      00 50 79 66 68 00 00 50 79 66 68 01 08 00
+
+     
      
   4. Quel filtre d'affichage permet de ne plus afficher les paquets ARP ?
   5. Quelles informations sont disponibles dans la colonne info de la liste des paquets pour la ligne 3 ?
