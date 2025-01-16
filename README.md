@@ -22,14 +22,13 @@
 
      
      
-  4. filtre d'affichage qui permet de ne plus afficher les paquets ARP  est :
+  3. filtre d'affichage qui permet de ne plus afficher les paquets ARP  est :
      Filtres de capture (icmp)
      
-  6. Les informations disponibles dans la colonne info de la liste des paquets pour la ligne 3 est :
+  4. Les informations disponibles dans la colonne info de la liste des paquets pour la ligne 3 est :
      
      0.001031	10.1.1.1	10.1.1.2	3	ICMP	98	Echo (ping) request  id=0xb78e, seq=1/256, ttl=64 (reply in 4)
      
-  8. Le paquet N°8 est-il une question ou une réponse ? et quel est le paquet correspondant (la question, si c'est une réponse ou la réponse, si c'est une question ?
-     Le paquet N°8 est une réponse
+  5.  Le paquet N°8 est une réponse : 
 2.003536	10.1.1.2	10.1.1.1	8	ICMP	98	Echo (ping) reply    id=0xb98e, seq=3/768, ttl=64 (request in 7)
 
